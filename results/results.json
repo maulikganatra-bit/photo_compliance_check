@@ -1,0 +1,156 @@
+[
+  {
+    "image_name": "ChatGPT Image Feb 23, 2026, 07_49_52 PM.png",
+    "yolo_result": {
+      "license_plate_detected": true,
+      "confidence": 0.7152621746063232,
+      "num_detections": 1,
+      "bounding_boxes": [
+        {
+          "box": [
+            795.9534912109375,
+            549.3270263671875,
+            915.9531860351562,
+            605.9633178710938
+          ],
+          "confidence": 0.7152621746063232
+        }
+      ]
+    },
+    "openai_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "The image clearly shows a vehicle with a visible and readable license plate attached to the rear of the car."
+    },
+    "claude_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "Clear view of rear license plate on white BMW sedan showing alphanumeric characters, fully visible and readable"
+    }
+  },
+  {
+    "image_name": "ChatGPT Image Feb 23, 2026, 07_50_38 PM.png",
+    "yolo_result": {
+      "license_plate_detected": true,
+      "confidence": 0.7032575011253357,
+      "num_detections": 1,
+      "bounding_boxes": [
+        {
+          "box": [
+            538.282470703125,
+            487.58673095703125,
+            643.189697265625,
+            541.1729125976562
+          ],
+          "confidence": 0.7032575011253357
+        }
+      ]
+    },
+    "openai_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "A vehicle is visible in the garage with a clearly readable license plate attached to the rear."
+    },
+    "claude_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "Clear Honda vehicle license plate visible on rear of blue SUV showing alphanumeric characters 'QJT 4801'"
+    }
+  },
+  {
+    "image_name": "ChatGPT Image Feb 23, 2026, 08_31_43 PM.png",
+    "yolo_result": {
+      "license_plate_detected": true,
+      "confidence": 0.6935791373252869,
+      "num_detections": 1,
+      "bounding_boxes": [
+        {
+          "box": [
+            554.92626953125,
+            551.9786987304688,
+            692.4825439453125,
+            620.8705444335938
+          ],
+          "confidence": 0.6935791373252869
+        }
+      ]
+    },
+    "openai_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "A vehicle is visible with a clearly readable license plate attached to the front. The alphanumeric characters are distinct and identifiable."
+    },
+    "claude_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "Clear vehicle license plate visible on white Toyota SUV in garage with readable alphanumeric characters"
+    }
+  },
+  {
+    "image_name": "ChatGPT Image Feb 23, 2026, 08_32_35 PM.png",
+    "yolo_result": {
+      "license_plate_detected": true,
+      "confidence": 0.7462433576583862,
+      "num_detections": 2,
+      "bounding_boxes": [
+        {
+          "box": [
+            528.0095825195312,
+            393.4868469238281,
+            837.3375854492188,
+            557.8282470703125
+          ],
+          "confidence": 0.7462433576583862
+        },
+        {
+          "box": [
+            280.3282775878906,
+            537.1980590820312,
+            437.5716247558594,
+            625.7758178710938
+          ],
+          "confidence": 0.6116884350776672
+        }
+      ]
+    },
+    "openai_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "The image shows a vehicle with a visible alphanumeric plate attached to the rear, which is a typical location for a license plate."
+    },
+    "claude_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "Two clear license plates visible on the vehicle: main rear plate reading 'BEACHLIFE' mounted on spare tire, and secondary plate reading 'FJF 48' on lower left rear bumper area"
+    }
+  },
+  {
+    "image_name": "ChatGPT Image Feb 23, 2026, 08_33_36 PM.png",
+    "yolo_result": {
+      "license_plate_detected": true,
+      "confidence": 0.6998416781425476,
+      "num_detections": 1,
+      "bounding_boxes": [
+        {
+          "box": [
+            537.94873046875,
+            488.566650390625,
+            646.69580078125,
+            543.5039672851562
+          ],
+          "confidence": 0.6998416781425476
+        }
+      ]
+    },
+    "openai_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "A vehicle is visible with a clearly readable alphanumeric license plate attached to the rear."
+    },
+    "claude_result": {
+      "license_plate_detected": true,
+      "confidence": 95,
+      "reasoning": "Clear white rectangular license plate visible on rear of blue Honda vehicle with readable alphanumeric characters"
+    }
+  }
+]
