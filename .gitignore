@@ -1,0 +1,42 @@
+# Environment variables (API keys)
+.env
+
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# YOLO model weights (too large for git — see README for download instructions)
+*.pt
+
+# Results (generated output)
+results/
+annotated/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# YOLO auto-generated
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
